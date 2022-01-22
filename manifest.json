@@ -1,0 +1,13 @@
+{
+  "name": "Afghan Web Editor",
+  "short_name": "Afg Editor",
+  "start_url": ".",
+  "background_color": "#fff",
+  "theme_color": "#2f2d41",
+  "display": "standalone",
+  "icons": [{
+    "src": "dist/code_logo.png",
+    "size": "500/500",
+    "type": "image/png"
+  }]
+}
